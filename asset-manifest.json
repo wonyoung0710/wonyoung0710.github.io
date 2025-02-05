@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1169febb.css",
+    "main.js": "/static/js/main.607557a4.js",
+    "static/media/company_KMTC.jpg": "/static/media/company_KMTC.2f0a5debdd2b8edb7a9e.jpg",
+    "static/media/company_KMTC_2.jpg": "/static/media/company_KMTC_2.3a3c45737c36ff556aed.jpg",
+    "index.html": "/index.html",
+    "main.1169febb.css.map": "/static/css/main.1169febb.css.map",
+    "main.607557a4.js.map": "/static/js/main.607557a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1169febb.css",
+    "static/js/main.607557a4.js"
+  ]
+}
